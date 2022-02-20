@@ -33,4 +33,4 @@ root                    (project root folder)
 
 ## Authors
 ---
-* Cheri Hansen, Ian Moses, Spencer Paulsen, Jared Chinchilla Sanchez & Mario Flota.
+* Cheri Hansen, Ian Moes, Spencer Paulsen, Jared Chinchilla Sanchez & Mario Flota.
