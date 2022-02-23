@@ -18,6 +18,7 @@ class Artifact(Actor):
         self._position._y += 1
         return self._position
 
+    #Wrap artifacts
     def move_next(self, max_x, max_y):
         super().move_next(max_x, max_y)
 
