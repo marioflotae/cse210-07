@@ -89,7 +89,6 @@ class Director:
 
         #Replace Artifacts
         if len(artifacts) < 100:
-            #create_artifacts()
             
             text = chr(random.choice([42, 79]))
 
@@ -109,7 +108,6 @@ class Director:
             artifact.set_color(color)
             artifact.set_position(position)
             cast.add_actor("artifacts", artifact)
-        #print(len(artifacts))
                     
         
     def _do_outputs(self, cast):
