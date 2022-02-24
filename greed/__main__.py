@@ -53,7 +53,6 @@ def main():
     #create the artifacts
 
     for n in range(DEFAULT_ARTIFACTS):
-        #create_artifacts()
         text = chr(random.choice([42, 79]))
 
         x = random.randint(1, COLS - 1)
